@@ -1,0 +1,13 @@
+.logo-container {
+    display: flex;
+    justify-content: center; /* Centers the logo horizontally */
+    align-items: center; /* Centers the logo vertically */
+  }
+  
+  .logo-container img {
+    max-width: 10rem; 
+    height: auto; 
+  }
+  
+
+  
